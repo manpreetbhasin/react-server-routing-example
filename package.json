@@ -12,6 +12,7 @@
     "routing",
     "data"
   ],
+  "scripts" : { "start" : "node server.js" } },
   "author": "Michael Hart <michael.hart.au@gmail.com>",
   "license": "MIT",
   "dependencies": {
